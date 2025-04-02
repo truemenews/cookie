@@ -5,7 +5,6 @@
 ?>
 
 <!-- Show password protected content down here -->
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -21,10 +20,7 @@
                 </p>
                 <p><a class="btn btn-lg btn-success" href="logout.php" role="button">Log out</a></p>
             </div>
-
-
         </div>
-
         <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
     </body>
 </html>

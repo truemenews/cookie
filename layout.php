@@ -1,5 +1,4 @@
 <?php
-//var_dump($_SERVER['HTTP_HOST']);
     session_start(); /* Starts the session */
 
     if($_SESSION['Active'] == false){ /* Redirects user to Login.php if not logged in */
